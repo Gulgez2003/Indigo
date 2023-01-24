@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Indigo.Models.Post>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="col-lg-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body border border-2">
+            <div class="d-flex justify-content-end mb-2">
+                <a class="btn btn-success btn-sm" type="button" asp-area="Admin" asp-controller="Posts" asp-action="Create">Add Post</a>
+            </div>
+            <h4 class="card-title">Posts table</h4>
+            <div class="table-responsive pt-3">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th> Id </th>
+                            <th> Name </th>
+                            <th> Description </th>
+                            <th> Image </th>
+                            <th> Settings </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Id)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Description)
+                                </td>
+                                <td>
+                                    <img src="~/assets/images/@Html.DisplayFor(modelItem => item.ImagePath)">
+                                </td>
+                                <td>
+                                    <a asp-area="admin" asp-controller="posts" asp-action="edit" asp-route-id="@item.Id" type="button" class="btn btn-dark btn-sm"><i class="mdi mdi-border-color"></i></a>
+                                    <a asp-area="admin" asp-controller="posts" asp-action="delete" asp-route-id="@item.Id" type="button" class="btn btn-dark btn-sm"><i class="mdi mdi-delete"></i></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Indigo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Indigo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\34189b21-776f-4eb8-b88f-ac0b837f7a9ablog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\34189b21-776f-4eb8-b88f-ac0b837f7a9ablog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\3cb718b0-c14d-4359-b1b5-fb86507dbe1bblog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3cb718b0-c14d-4359-b1b5-fb86507dbe1bblog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\6b045ba9-b4f4-4bee-8817-1eab675a7d03blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\6b045ba9-b4f4-4bee-8817-1eab675a7d03blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\78f8cf34-168d-4550-8079-7b529a58f2b3blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\78f8cf34-168d-4550-8079-7b529a58f2b3blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\89bad5fa-40c4-41f3-95d0-7cda0dc5ea40blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\89bad5fa-40c4-41f3-95d0-7cda0dc5ea40blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\9a0007eb-9f82-403d-a430-76e75df7533bblog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\9a0007eb-9f82-403d-a430-76e75df7533bblog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\a08926ee-6c9c-4128-a7df-0764aee1ad15blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a08926ee-6c9c-4128-a7df-0764aee1ad15blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\a33a903c-1981-4f3b-ab49-35e9c23b1d3cblog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a33a903c-1981-4f3b-ab49-35e9c23b1d3cblog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\ad8330db-dd0b-477a-8bfc-befc40b986cbblog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ad8330db-dd0b-477a-8bfc-befc40b986cbblog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\c1b4556f-29ec-4a99-b063-07a56fb467b6blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\c1b4556f-29ec-4a99-b063-07a56fb467b6blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\cebefe4a-d9dc-4071-94e6-26014b4ae387blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cebefe4a-d9dc-4071-94e6-26014b4ae387blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\da5d19fa-d710-4731-974a-ce01a625740ablog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\da5d19fa-d710-4731-974a-ce01a625740ablog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\images\\hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\IndigoDrive\\Indigo\\wwwroot\\assets\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Indigo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Indigo.props",
+      "PackagePath": "build\\Indigo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Indigo.props",
+      "PackagePath": "buildMultiTargeting\\Indigo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Indigo.props",
+      "PackagePath": "buildTransitive\\Indigo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

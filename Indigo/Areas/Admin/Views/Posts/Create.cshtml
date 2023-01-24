@@ -1,0 +1,42 @@
+﻿@using Indigo.Dtos.PostDtos
+@model PostPostDto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Post</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Create form</h4>
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="@Model.Name"></label>
+                        <input type="text" class="form-control" asp-for="@Model.Name" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.Description"></label>
+                        <input type="text" class="form-control" asp-for="@Model.Description" placeholder="Description">
+                    </div>
+                    <div class="form-group">
+                        <label>File</label>
+                        <input type="file" accept="image/*" class="form-control" asp-for="@Model.formFile" placeholder="File">
+                    </div>
+                    
+                    <button type="submit" class="btn btn-gradient-primary me-2">Submit</button>
+                    <button asp-action="Index" class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+    

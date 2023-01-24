@@ -1,0 +1,38 @@
+﻿@using Indigo.Dtos.PostDtos
+@model PostUpdateDto
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Edit form</h4>
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="@Model.postPostDto.Name"></label>
+                        <input type="text" class="form-control" asp-for="@Model.postPostDto.Name" value="@Model.postGetDto.Name" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.postPostDto.Description"></label>
+                        <input type="text" class="form-control" asp-for="@Model.postPostDto.Description" value="@Model.postGetDto.Description" placeholder="Description">
+                    </div>
+                    <div class="form-group">
+                        <label>File</label>
+                        <input type="file" accept="image/*" class="form-control" asp-for="@Model.postPostDto.formFile" value="@Model.postGetDto.ImagePath" />
+                    </div>
+
+                    <input hidden asp-for="@Model.postGetDto.Id" />
+                    <button type="submit" class="btn btn-gradient-primary me-2">Submit</button>
+                    <button asp-action="Index" class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
